@@ -1,5 +1,4 @@
-# TKB
-Những yêu cầu đối với ứng dụng quản lí thời khoá biều sinh viên
+# Đôi nét về app TKB
 
 I.Giao diện:
 
@@ -7,17 +6,12 @@ Thiết kế theo hướng đối tượng.
 
 Dễ tiếp cận, dễ sử dụng, thân thiện với người dùng.
 
-Với tông màu chủ đạo là màu trắng cùng với màu vàng , đỏ làm điểm nhấn.
 
 II.Chức năng đăng ký, đăng nhập:
 
 Cho phép người dung tạo tài khoản bằng gmail hoặc đăng nhập trực tiếp bằng tài khoản Google.
 
 Lưu dữ liệu tài khoản và người dùng trên nền tảng firebase.
-
-III.Màn hình chính:
-
-Màn hình chính chứa menu slide gồm các icon chức năng như: xem thời khoá biểu, cài đặt nhắc nhở, tra cứu bằng chatbot, thông tin người dùng.
 
 IV.Chức năng xem thời khoá biểu:
 
